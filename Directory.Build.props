@@ -1,0 +1,7 @@
+<Project>
+  <PropertyGroup Condition="'$(MSBuildProjectName)' == 'SafeVault.Tests'">
+    <BaseIntermediateOutputPath>obj\tests\</BaseIntermediateOutputPath>
+    <MSBuildProjectExtensionsPath>$(BaseIntermediateOutputPath)</MSBuildProjectExtensionsPath>
+    <OutputPath>bin\tests\</OutputPath>
+  </PropertyGroup>
+</Project>

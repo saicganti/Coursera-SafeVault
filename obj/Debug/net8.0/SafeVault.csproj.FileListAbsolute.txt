@@ -1,0 +1,12 @@
+C:\Users\saicg\.vscode\SafeVault\bin\Debug\net8.0\SafeVault.deps.json
+C:\Users\saicg\.vscode\SafeVault\bin\Debug\net8.0\SafeVault.dll
+C:\Users\saicg\.vscode\SafeVault\bin\Debug\net8.0\SafeVault.pdb
+C:\Users\saicg\.vscode\SafeVault\obj\Debug\net8.0\SafeVault.csproj.AssemblyReference.cache
+C:\Users\saicg\.vscode\SafeVault\obj\Debug\net8.0\SafeVault.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saicg\.vscode\SafeVault\obj\Debug\net8.0\SafeVault.AssemblyInfoInputs.cache
+C:\Users\saicg\.vscode\SafeVault\obj\Debug\net8.0\SafeVault.AssemblyInfo.cs
+C:\Users\saicg\.vscode\SafeVault\obj\Debug\net8.0\SafeVault.csproj.CoreCompileInputs.cache
+C:\Users\saicg\.vscode\SafeVault\obj\Debug\net8.0\SafeVault.dll
+C:\Users\saicg\.vscode\SafeVault\obj\Debug\net8.0\refint\SafeVault.dll
+C:\Users\saicg\.vscode\SafeVault\obj\Debug\net8.0\SafeVault.pdb
+C:\Users\saicg\.vscode\SafeVault\obj\Debug\net8.0\ref\SafeVault.dll
